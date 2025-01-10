@@ -9,5 +9,5 @@
 - Only Latest Windows Versions That Are Actively Supported
 - Only Latest Linux Versions That Are Actively Supported
 - Only Latest Mac Versions That Are Actively Supported
-- Only The Following Browsers (Safari,Chrome,Firefox,Edge,Opera)
+- Only The Following Browsers (Safari,Chrome,Firefox,Edge,Opera,Samsung)
 - Make sure your APP is fully up to date before PR Request
